@@ -6,3 +6,4 @@ Install Numpy in python environment
 
 Run the file in Python language interpretor or Google Colaboratory in online mode, by copying the code into a code block of Colab notebook.
 
+Sample objective functions are given in the function definitions Objective_function_1 and Objective_function_2.
